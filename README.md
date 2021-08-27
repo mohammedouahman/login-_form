@@ -1,2 +1,2 @@
 # Complet-login-form
-*create a simpolt login database using php, css, and html*
+*create a simple login database using php, and css*
